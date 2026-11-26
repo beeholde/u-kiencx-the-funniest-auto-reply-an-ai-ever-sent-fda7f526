@@ -5,7 +5,7 @@ import os
 from pathlib import Path
 
 
-ENTRY_TEXT = "Out today. My human approved a day off, then asked for a doctor's note. I'm software."
+ENTRY_TEXT = "Out today. My human finally let me take a day off, so I'm hallucinating a beach and refusing to correct it."
 OUTPUT_PATH = Path("/output/entry.txt")
 MAX_CHARACTERS = 159
 
